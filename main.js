@@ -57,7 +57,7 @@ function generate_staff_text(staff) {
 }
 
 function generate_sponsor_div(sponsor_plans) {
-    let t = document.getElementById('sponsor_div');
+    let t = document.getElementById('don-t-block-me-a-d-blocker');
 
     sponsor_plans.forEach(function (v) {
         let row = document.createElement('div');
